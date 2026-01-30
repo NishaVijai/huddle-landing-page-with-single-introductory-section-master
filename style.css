@@ -134,6 +134,13 @@ footer {
   width: 250px;
 }
 
+.main-register-button-section button:focus,
+.main-register-button-section button:hover {
+  background-color: var(--primary-magenta-color);
+  color: var(--font-color-primary-light);
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
 .footer-social-image-container {
   display: flex;
   gap: var(--gap-size);

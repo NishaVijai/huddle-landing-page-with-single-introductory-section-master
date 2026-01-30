@@ -9,8 +9,9 @@ Frontend Mentor challenges help improve frontend skills by building realistic UI
 
 * [Overview](#overview)
 
-  * [The challenge](#the-challenge)
+  * [Preview](#preview)
   * [Screenshot](#screenshot)
+  * [The challenge](#the-challenge)
   * [Links](#links)
 * [My process](#my-process)
 
@@ -23,6 +24,12 @@ Frontend Mentor challenges help improve frontend skills by building realistic UI
 
 ## Overview
 
+### Preview
+* **Live Site URL:** [https://nishavijai.github.io/huddle-landing-page-with-single-introductory-section-master/](https://nishavijai.github.io/huddle-landing-page-with-single-introductory-section-master/)
+
+### Screenshot
+
+
 ### The challenge
 
 Users should be able to:
@@ -30,16 +37,9 @@ Users should be able to:
 * View an optimal layout depending on their device’s screen size
 * See hover states for all interactive elements
 
-### Screenshot
-
-![Huddle landing page screenshot](./screenshot.jpg)
-
-> *(Replace `screenshot.jpg` with your actual screenshot file name once added)*
-
 ### Links
 
 * **Solution URL:** [https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-css-XXXX](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-css-XXXX)
-* **Live Site URL:** [https://nishavijai.github.io/huddle-landing-page-with-single-introductory-section-master/](https://nishavijai.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ---
 
@@ -61,26 +61,6 @@ Users should be able to:
 * Handling responsive background images for mobile and desktop
 * Improving SVG icon styling using CSS
 * Writing cleaner, more readable CSS for layout alignment and spacing
-
-Example snippet:
-
-```css
-@media (min-width: 1440px) {
-  main {
-    flex-direction: row;
-    gap: 3rem;
-  }
-}
-```
-
-### Continued development
-
-In future projects, I want to:
-
-* Improve desktop-first layout refinement
-* Add smooth hover and focus states for accessibility
-* Practice more complex responsive layouts
-* Explore light JavaScript enhancements for UI interactions
 
 ---
 
