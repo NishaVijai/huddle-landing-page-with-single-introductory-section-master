@@ -12,7 +12,6 @@ Frontend Mentor challenges help improve frontend skills by building realistic UI
   * [Preview](#preview)
   * [Screenshot](#screenshot)
   * [The challenge](#the-challenge)
-  * [Links](#links)
 * [My process](#my-process)
 
   * [Built with](#built-with)
@@ -36,10 +35,6 @@ Users should be able to:
 
 * View an optimal layout depending on their device’s screen size
 * See hover states for all interactive elements
-
-### Links
-
-* **Solution URL:** [https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-css-XXXX](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-css-XXXX)
 
 ---
 
