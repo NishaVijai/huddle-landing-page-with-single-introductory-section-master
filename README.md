@@ -28,7 +28,7 @@ Frontend Mentor challenges help improve frontend skills by building realistic UI
 * **Live Site URL:** [https://nishavijai.github.io/huddle-landing-page-with-single-introductory-section-master/](https://nishavijai.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Screenshot
-
+<img width="3840" height="2232" alt="Frontend Mentor Huddle landing page with single introductory section" src="https://github.com/user-attachments/assets/8064efe2-39cf-45e6-a417-b6968bf34d9f" />
 
 ### The challenge
 
