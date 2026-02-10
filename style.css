@@ -158,9 +158,27 @@ footer {
 }
 
 .footer-social-image-container img {
+  color: var(--icon-color-light);
   height: 34px;
   width: 34px;
-  color: var(--icon-color-light);
+}
+
+.footer-social-image-container a {
+  display: inline-flex;
+  border: 2px solid transparent;
+  overflow: hidden;
+  transition: background-color 0.3s ease-in-out,
+              border-color 0.3s ease-in-out,
+              color 0.3s ease-in-out,
+              border-radius 0.3s ease-in-out;
+}
+
+.footer-social-image-container a:hover,
+.footer-social-image-container a:focus {
+  background-color: var(--primary-magenta-color);
+  border-color: var(--button-color-light);
+  color: var(--font-color-primary-light);
+  border-radius: 25px;
 }
 
 .icon {
